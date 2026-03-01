@@ -1,4 +1,4 @@
-# EasySave
+# EasySave-CS
 
 Godot 4.x C# 存档插件 — 基于 Resource 序列化的槽位存档系统。
 
